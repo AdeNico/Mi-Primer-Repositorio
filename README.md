@@ -1,2 +1,2 @@
-# Mi-Primer-Repositorio
+# Mi primer README
 Este es un repositorio de practica
